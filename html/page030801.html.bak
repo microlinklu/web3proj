@@ -1,0 +1,26 @@
+<html>
+	<head>
+		<title>Web页面
+	  </title>
+	</head>
+	
+	<body>
+		<a name="tp"></a>
+		<h1>h1标题</h1>
+		<h2>h2标题</h2>
+		<h3>h3标题</h3>
+		<h4>h4标题</h4>
+		<h5>h5标题</h5>
+		<h6>h6标题</h6>
+		第一个页面Element元素
+		<hr />
+	<p> 的的鬼<ins>斧神</ins>工发布内
+		容要怒米</p>
+		x<sup>2</sup>
+	<p>fgffb<b><i>法国团体</i></b>和<small>内涵</small>会更<big>难过</big>放那<del>好久好久</del>结婚呢</p>
+		<a href="#tp" target="_self">
+			<img src="../image/bnet.gif" width=200 height=200
+			        alt="tupian" title="暴雪游戏">
+			</a>
+	</body>
+</html>

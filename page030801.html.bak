@@ -1,0 +1,23 @@
+<html>
+	<head>
+		<title>Web页面
+	  </title>
+	</head>
+	
+	<body>
+		<h1>h1标题</h1>
+		<h2>h2标题</h2>
+		<h3>h3标题</h3>
+		<h4>h4标题</h4>
+		<h5>h5标题</h5>
+		<h6>h6标题</h6>
+		第一个页面Element元素
+	<p> 的的鬼斧神工发布内
+		容要怒米</p>
+	<p>fgffb法国团体和
+		内涵会更<br/>难过放那好久好久结婚呢</p>
+		<a href="second.html" target="_self">
+			<img src="bnet.gif">
+			</a>
+	</body>
+</html>
