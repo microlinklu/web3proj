@@ -1,0 +1,28 @@
+<html>
+  <head>
+  <style>
+  	h2+h2{
+  		color:#ff0   
+  		}
+  		h1.abc{
+  			color:#f00
+  		}
+  		#ff{
+  			font-size:60px;
+  		}
+  </style>
+  </head>
+  <body>
+  <h1 class="abc">aaaa</h1>
+  <h1 id="ff">bbbb</h1>
+  <h2 id="ff">cccc
+  	<p>
+  		<b class="abc">eeeeee</b>
+  	</p>
+  	<b>eeeeee</b>
+  	</h2>
+  <h2>dddd</h2>
+  <h1>fdfdgdfg</h1>
+  <h2>ffff</h2>
+  </body>
+</html>

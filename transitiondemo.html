@@ -1,0 +1,39 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title></title>
+<style>
+	div{
+		width:100px;
+		height:100px;
+		transition:width ease-out 6s;
+		border:1px solid red;
+		background-color:blue;
+	}
+	div:hover{
+		width:500px;
+   
+	|}
+	.anim{
+		width:200px;
+		height:300px;
+		border:1px solid green;
+
+		animation:change 5s infinite;
+		
+	}
+	@keyframes change{
+		0%{background-color:black}
+		33%{background-color:blue}
+		66%{background-color:green}
+		100%{background-color:red}
+	}
+</style>
+</head>
+
+<body>
+<div></div>
+<div class="anim"></div>
+</body>
+</html>

@@ -1,0 +1,53 @@
+body{
+	background-color:#f7f7f7;
+}
+#login{
+	width:500px;
+	padding:0;
+	float:left
+}
+fieldset{
+	border:1px dashed #ccc;
+	padding:10px;
+}
+legend{
+	color:#fff;
+	background-color:#000;
+	
+	
+}
+label{
+	width:140px;
+	height:30px;
+	color:#777;
+	text-align:right;
+	float:left;
+	margin:3px 2px 0px 0px;
+	padding:10px 0 0 6px;
+	
+}
+
+.div_text{
+	width:290px;
+	background-color:#999999;
+	
+	float:right;
+	height:35px;
+	margin-top:3px;
+	padding-top:5px;
+	padding-bottom:3px;
+	padding-left:3px;
+}
+.textbox{
+	width:260px;
+	background-color:lightgray;
+	padding:3px 12px 3px 10px;
+	
+}
+.div_button{
+	width:290px;
+	float:right;
+	margin-top:3px;
+	padding:5px 30px 3px;
+	
+}
